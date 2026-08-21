@@ -22,3 +22,4 @@ This project analyzes retail performance using the `store_sales.csv` dataset sou
 ## 📋 Feature Checklist
 
 - [x] **Dataset Loading & Initial Inspection:** Inspected data shape, column data types, and missing/null values.
+- [x] **Descriptive Statistics:** Summary statistics (mean, median, mode, standard deviation) for all numerical columns.
