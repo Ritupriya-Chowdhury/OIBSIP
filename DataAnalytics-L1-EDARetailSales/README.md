@@ -1,4 +1,4 @@
- Store Sales Data Analysis & Insights
+ # Store Sales Data Analysis & Insights
 
 An Exploratory Data Analysis (EDA) and visualization project analyzing store sales performance, customer demographics, product categories, and temporal sales trends using Python.
 
@@ -23,3 +23,5 @@ This project analyzes retail performance using the `store_sales.csv` dataset sou
 
 - [x] **Dataset Loading & Initial Inspection:** Inspected data shape, column data types, and missing/null values.
 - [x] **Descriptive Statistics:** Summary statistics (mean, median, mode, standard deviation) for all numerical columns.
+- [x] **Time Series Analysis:** Monthly and quarterly sales trends visualized using sns line plot
+
